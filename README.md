@@ -1,4 +1,4 @@
-# Simulation-Driven ML for Semi-Dynamic Project-Delay Prediction
+# Project Risk Forecasting With Bayesian Networks
 
 This project builds a simulation-driven machine learning framework to predict whether a project will finish late. Instead of relying on static scheduling assumptions or expert-defined fuzzy/causal rules, the approach generates uncertainty empirically using CPM/PERT-based Monte Carlo simulation and trains supervised models on simulation-derived features.
 
